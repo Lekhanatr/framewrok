@@ -31,6 +31,8 @@ public class AddLowestPriceProductToCartTest extends BaseClass{
 		
 		
 		
+		
+		
 		//navigate to dropdown
 		InventoryOrProductPage ip = new InventoryOrProductPage(driver);
 		WebElement sortDropDownElement = ip.getSortDropDown();
